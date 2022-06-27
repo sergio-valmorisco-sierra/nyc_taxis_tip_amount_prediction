@@ -7,7 +7,7 @@ LinkedIn: www.linkedin.com/in/sergio-valmorisco-sierra
 
 E-mail: s.valmorisco@gmail.com
 
-Every month New York City releases data about trips taken in NYC taxis. I downloaded the yellow cab data from the months of March, June, and November in 2017 and created a machine learning model that predicts an appropiate tip amount for the riders.
+Every month, New York City releases data about trips taken with NYC taxis. I downloaded the yellow cab data from the months of March, June, and November in 2017 and created a machine learning model that predicts an appropriate tip amount for the riders.
 
 The yellow cab data dictionary can be found in the following [link][DataDict].
 
@@ -19,3 +19,5 @@ Download, assess and clean the data.
 Exploratory data analysis.
 - [03_NYC_taxis_Model_training.ipynb](03_NYC_taxis_Model_training.ipynb)
 Model training.
+
+[DataDict]: https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
