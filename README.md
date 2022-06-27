@@ -1,7 +1,10 @@
 # NYC Taxis - Tip amount prediction
 **Sergio Valmorisco Sierra**
+
 June, 2022
+
 LinkedIn: www.linkedin.com/in/sergio-valmorisco-sierra
+
 E-mail: s.valmorisco@gmail.com
 
 Every month New York City releases data about trips taken in NYC taxis. I downloaded the yellow cab data from the months of March, June, and November in 2017 and created a machine learning model that predicts an appropiate tip amount for the riders.
